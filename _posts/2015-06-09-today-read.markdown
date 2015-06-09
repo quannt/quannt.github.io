@@ -8,7 +8,7 @@ This series Today Read which (I hope) will be updated daily is where I keep all 
 
 * ### [What I Do When I Feel Like Giving Up by James Clear](http://jamesclear.com/giving-up?__s=mbpwotdayps4eqbfdkfa)
 
-I've been following James's blog post for almost over a year. This guy knows what he is doing and the stuffs he's putting out there are pretty all worth reading. This article is not an exception either. Go read it, will take you at most 5 minutes and will leave you fully energized and motivated to do whatever stuffs you are trying to procrascinate at the moment.
+I've been following James's blog post for almost over a year. This guy knows what he is doing and the stuffs he's putting out there are pretty much all worth reading. This one is not an exception either. Go read it, will take you at most 5 minutes and will leave you fully energized and motivated to do whatever stuffs you are trying to procrascinate at the moment.
 
 >This moment when you don’t feel like doing the work? This is not a moment to be thrown away. This is not a dress rehearsal. This moment is your life as much as any other moment. Spend it in a way that will make you proud.
 

@@ -1,12 +1,33 @@
-# Site settings
-title: quannt's personal blog
-description: > # this means to ignore newlines until "baseurl:"
-  This is quannt's personal blog. The view on this blog is solely from my personal point of view and does not represent my employer's.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: quannt91
-github_username:  quannt
 
-# Build settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
 markdown: kramdown
 
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: My take on programming
+
+description: c#, asp.net, javascript and more
+author:
+  name: quannt
+  email: #
+  github: quannt
+  twitter: quannt91
+  pinterest: 
+  linkedin: 
+  bio: 
+  email_md5: 
+
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:

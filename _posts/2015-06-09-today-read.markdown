@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Today Read"
-date:   2015-06-09 14:58:14
-categories: update, today-read
+title: "Today Read"
+categories: [general]
+tags: [today-read]
+fullview: true
 ---
 This series Today Read which (I hope) will be updated daily is where I keep all the reading materials, interesting articles that I found on the Internet on the day. So to start with, to day Today Read brings
 

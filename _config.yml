@@ -9,5 +9,4 @@ github_username:  quannt
 
 # Build settings
 markdown: kramdown
-source:      D:\Work\Blog\jekyll
-destination: D:\Work\Blog\jekyll-staging
+

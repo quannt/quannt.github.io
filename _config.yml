@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: My take on programming
+      title: Quannt | Programming Blog
 
 description: c#, asp.net, javascript and more
 author:
@@ -23,7 +23,7 @@ author:
   pinterest: 
   linkedin: 
   bio: 
-  email_md5: 
+  email_md5: 28410ec97da16f250a154d9b335c8a32
   disqus: quannt
 
 

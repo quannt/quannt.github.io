@@ -2,7 +2,7 @@
 layout: post
 title: "Today Read"
 categories: [general]
-tags: [today-read]
+tags: [today-read, programming]
 fullview: true
 ---
 This series Today Read which (I hope) will be updated daily is where I keep all the reading materials, interesting articles that I found on the Internet on the day. So to start with, to day Today Read brings

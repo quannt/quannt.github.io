@@ -1,10 +1,8 @@
 ---
 layout: post
-categories: 
-  - general
-tags: 
-  - javascript
-  - programming
+title: "I don't know Javascript Part II"
+categories: [general]
+tags: [javascript, programming]
 fullview: true
 ---
 
@@ -14,11 +12,11 @@ fullview: true
 As promosied from [last post](http://quannt.github.io/general/2015/06/16/I-Dont-Know-Js-I.html), here are some useful resources to learn JavaScript that I have personally used over the years. Disclaimers : These are suggestions and I am not by all mean an expert in JavaScript.
 
 
-# If you want to start from scratch
+### If you want to start from scratch
 
 Follow this [javascriptissexy article](http://javascriptissexy.com/how-to-learn-javascript-properly/). You should spend 6 to 8 weeks working on books, online courses, assignments, try to finish as much as you can.
 
-# You know the basics and want to improve your JS code
+### You know the basics and want to improve your JS code
 I would still recommend follow the javascriptissexy article. However, depending on your current knowledge, you need not follow all of them, pick the parts that you are not feeling comfortable with and work on it.
 
 
@@ -39,5 +37,5 @@ By Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 The key takeaway after reading this is it not JS or jQuery fault if your code is a mess, it's your fault. If you don't have time for the whole book, take a look at [the module pattern chapter](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 
-# Final Words
+### Final Words
 I hope you find something useful in this article and until next time. Bye bye!

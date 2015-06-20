@@ -25,9 +25,9 @@ After getting the foundation of the language, read [this book](http://shop.oreil
 ![Maintainable JavaScript ](http://akamaicovers.oreilly.com/images/0636920025245/lrg.jpg)
 
 What you will learn and be able to do after reading this book: 
-- Build your own coding style (if you don't have one yet) and hopefully stick with it. 
-- Separate layers. Why you should keep your CSS out of JS, JS out of CSS, JS out of HTML, HTML out of JS and how to do so.
-- Common gotchas when building a script-heavy application.
+1. Build your own coding style (if you don't have one yet) and hopefully stick with it. 
+2. Separate layers. Why you should keep your CSS out of JS, JS out of CSS, JS out of HTML, HTML out of JS and how to do so.
+3. Common gotchas when building a script-heavy application.
 
 The second book is another excellent one, [ Learning JavaScript Design Patterns
 A JavaScript and jQuery Developer's Guide
@@ -35,7 +35,7 @@ By Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ![Learning JavaScript Design Patterns](http://akamaicovers.oreilly.com/images/0636920025832/lrg.jpg)
 
-The key takeaway after reading this is it not JS or jQuery fault if your code is a mess, it's your fault. If you don't have time for the whole book, take a look at [the module pattern chapter](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+The key takeaway after reading this is it not JS or jQuery fault if your code is a mess, it's your fault. You can and should apply design pattern when coding. If you don't have time for the whole book, take a look at [the module pattern chapter](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 
 ### Final Words
 I hope you find something useful in this article and until next time. Bye bye!

@@ -25,9 +25,9 @@ After getting the foundation of the language, read [this book](http://shop.oreil
 ![Maintainable JavaScript ](http://akamaicovers.oreilly.com/images/0636920025245/lrg.jpg)
 
 What you will learn and be able to do after reading this book: 
-* Build your own coding style (if you don't have one yet) and hopefully stick with it. 
-* Separate layers. Why you should keep your CSS out of JS, JS out of CSS, JS out of HTML, HTML out of JS and how to do so.
-* Common gotchas when building a script-heavy application.
+- Build your own coding style (if you don't have one yet) and hopefully stick with it. 
+- Separate layers. Why you should keep your CSS out of JS, JS out of CSS, JS out of HTML, HTML out of JS and how to do so.
+- Common gotchas when building a script-heavy application.
 
 The second book is another excellent one, [ Learning JavaScript Design Patterns
 A JavaScript and jQuery Developer's Guide

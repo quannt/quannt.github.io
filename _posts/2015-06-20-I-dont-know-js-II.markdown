@@ -1,6 +1,14 @@
 ---
 published: false
+layout: post
+categories: 
+  - general
+tags: 
+  - javascript
+  - programming
+fullview: true
 ---
+
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "I don't know Javascript Part I"
 categories: [general]
 tags: [javascript, programming]
-fullview: true
+fullview: false
 ---
 
 **JavaScript**! Where do I even begin? I like to think that I have a love hate relationship with this language. It all started 3 years ago during my first job. I was fresh out of school, innocent with a dream of being the best developer in the world. There was just this slightly tiny problem : **JavaScript**. And not just plain **JavaScript**, it was **jQuery** . My first few assignments on the job involved working on an existing ASP.NET portal with a lot of front-end interactions by **jQuery**. Of course young me didn't know  crap about **jQuery** let alone fundamental **JavaScript**. 

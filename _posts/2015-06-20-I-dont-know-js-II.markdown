@@ -3,7 +3,7 @@ layout: post
 title: "I don't know Javascript Part II"
 categories: [general]
 tags: [javascript, programming]
-fullview: true
+fullview: false
 ---
 
 

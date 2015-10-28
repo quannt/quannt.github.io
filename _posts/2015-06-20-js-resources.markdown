@@ -22,6 +22,8 @@ Over the past few years, I have come across numerous resources to learn `JavaScr
 Do not force yourself to understand everything from these books at your very first try. It's not easy to be able to digest all the crap about `this`, `scope`,`closure`, etc. I know I don't. The point here to is to keep going. If you can't understand a tricky part, fine, take a note on that and move on. After sometimes you must go back and revise it again. 
 
 * Alternavtive : [](http://speakingjs.com/es5/index.html)
+
+
 ### Intermediate
 ---
 At this point you are already pretty good. I can go as wild as saying that you are already more competence than half of the web developers out there who can only glue libraries like `jQUery`, `bootstrap` together. Go and apply for a junior developer position. You will learn way more than any books or online courses can possibly teach you. 

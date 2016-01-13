@@ -5,8 +5,9 @@ categories: [programming]
 fullview: false
 ---
 Skip to *How* if you just want to know the instruction. 
-### Why
 
+### Why
+---
 So recently I had to maintain a legacy web application written in VB.NET using .NET 1.1 (yay!). I upgraded it to be compatible with .NET 4.6, which was fine at first but then I hit a problem with this particular line of code
 
 {% highlight VB.NET %}
@@ -39,6 +40,7 @@ End If
 This worked greats except that there were around 400 instances of this type of code in the code base. Let's be optimistic and assume that I can replace each instance in 30 seconds, that would take me more than 3 hours. There was no way I was gonna spend 3 hours copy pasting this. 
 
 ### How
+---
  What I wanted was to find all instace of `Session("blahblahblah") <>` and replace it with `SafeSessionToString(Session("blahblahblah")) <>`
  
  Press `Ctrl + F` to open the search and replace diaglog, Press `Alt+E` to turn on searching by Regular Expressions. 

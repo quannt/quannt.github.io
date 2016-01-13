@@ -2,7 +2,7 @@
 layout: post
 title: "Replacing text in Visual Studio 2015 using Regular Expression"
 categories: [programming]
-fullview: true
+fullview: false
 ---
 Skip to *How* if you just want to know the instruction. 
 ### Why

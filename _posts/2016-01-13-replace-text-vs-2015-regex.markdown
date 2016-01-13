@@ -41,7 +41,7 @@ This worked greats except that there were around 400 instances of this type of c
 
 ### How
 ---
- What I wanted was to find all instace of `Session("blahblahblah") <>` and replace it with `SafeSessionToString(Session("blahblahblah")) <>`
+ What I wanted was to find all instances of `Session("blahblahblah") <>` and replace them with `SafeSessionToString(Session("blahblahblah")) <>`
  
  Press `Ctrl + F` to open the search and replace diaglog, Press `Alt+E` to turn on searching by Regular Expressions. 
  

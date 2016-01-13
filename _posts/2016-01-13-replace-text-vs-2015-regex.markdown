@@ -47,6 +47,8 @@ This worked greats except that there were around 400 instances of this type of c
  
 * In the Find field, I typed in `(Session\(\"[a-zA-Z]+\"\) <>)` to match all the usages (I assume you have some knowledge on RegEx and need no explanation on this). The only thing to note here is to wrap your Regular Expression in a `()`.
 * In the Replace field, type in `SafeSessionToString($1)` and press `Alt + A` to replace all. Think of `$1` as a variable that stores the value of the text that matches your Regular Expression.
+
 ### End
+---
 Thanks for reading. I hope this post helps someone on the Internet. If you have question, feel free to leave a comment below.
  

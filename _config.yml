@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Quannt | Programming Blog
+      title: Quannt | Personal Blog
 
 description: c#, asp.net, javascript and more
 author:

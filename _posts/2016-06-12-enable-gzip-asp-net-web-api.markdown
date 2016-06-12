@@ -16,6 +16,8 @@ The first approach is to modify the ApplicationHost config file which is located
  {% endhighlight %}
 
 However, this does not work in my case as the `gzip` header for some reason is stripped which leads me to the second approach
+
+
 ### Second apporach: Using the plugin Microsoft.AspNet.WebApi.MessageHandlers.Compression
 [This plugin](https://github.com/azzlack/Microsoft.AspNet.WebApi.MessageHandlers.Compression) does the job and is very simple to use.
 First install it using Nuget `Install-Package Microsoft.AspNet.WebApi.Extensions.Compression.Server`

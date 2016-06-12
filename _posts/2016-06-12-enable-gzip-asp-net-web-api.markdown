@@ -5,7 +5,6 @@ categories: [programming]
 fullview: false
 ---
 
-### Why?
 Enabling gzip to reduce the response size is a good technique to speed up your ASP.NET Web API application. This works wonder if your API has to produce some heavy json result.
 
 There are generally two ways to enable gzip compression in an ASP.NET Web API application.

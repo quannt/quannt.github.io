@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some common gotchas when setting up React Native development environment for Android"
-categories: [programming]
+categories: [programming, react]
 fullview: false
 ---
 
@@ -32,6 +32,8 @@ classpath 'com.android.tools.build:gradle:1.2.3'
  {% endhighlight %}
  
 ### 2) Could not connect to development server
+![alt text](http://i.imgur.com/P4COBEN.png "Error screenshot")
+
 Well the problem is rather obvious here, your mobile device cannot connect to the React native packager on port 8081. 
 If you look carefully at the screenshot, React Native actually tells you how to fix that.
 * If your device is running on Android 5+, running `adb reverse tcp:8081 tcp:8081` fixes the problem. 

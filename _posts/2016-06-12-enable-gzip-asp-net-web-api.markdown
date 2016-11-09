@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enable gzip in ASP.NET Web APIII"
+title: "Enable gzip in ASP.NET Web API"
 categories: [programming]
 fullview: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some common gotchas when setting up React Native development environment for Android"
-categories: [programming],[react]
+categories: [programming]
 fullview: false
 ---
 

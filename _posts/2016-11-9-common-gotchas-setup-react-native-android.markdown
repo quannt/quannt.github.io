@@ -18,7 +18,7 @@ people. So here goes my attempt to save the humanity. Please note that I use a W
 
 ### 1)  Unable to upload some APKs
 The error looks something like this 
-{% highlight %}
+{% highlight json %}
 * What went wrong:
 Execution failed for task ':app:installDebug'.
 > com.android.builder.testing.api.DeviceException: com.android.ddmlib.InstallException: Unable to upload some APKs

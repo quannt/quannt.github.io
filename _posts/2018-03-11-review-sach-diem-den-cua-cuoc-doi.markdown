@@ -4,7 +4,8 @@ title: "Review sách: Điểm đến của cuộc đời"
 categories: [book]
 fullview: false
 ---
-![book-logo][https://images.gr-assets.com/books/1517844272l/38221686.jpg]
+![book-logo](https://images.gr-assets.com/books/1517844272l/38221686.jpg "Book Logo")
+
 
 Một trong những cuốn sách nhiều cảm xúc nhất đã từng đọc. Cảm thấy bản thân bị thôi thúc phải viết review ngay sau khi đọc xong, mặc dù những gì viết ra thật nhỏ bé và sáo rỗng so với những gì mà cuốn sách này muốn truyền tải. 
 

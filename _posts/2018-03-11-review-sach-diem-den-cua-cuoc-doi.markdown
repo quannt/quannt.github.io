@@ -4,6 +4,7 @@ title: "Review sách: Điểm đến của cuộc đời"
 categories: [book]
 fullview: false
 ---
+{: .center}
 ![book-logo](https://images.gr-assets.com/books/1517844272l/38221686.jpg "Book Logo")
 
 

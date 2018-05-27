@@ -3,6 +3,7 @@ layout: post
 title: "Vuejs - lỗi dễ gặp khi sử dụng v-model và nested object"
 categories: [programming]
 fullview: false
+excerpt: v-model chỉ tự động tạo reactive properties cho các properties thuộc **1 level deep** của model
 ---
 
 `v-model` chỉ  tự động tạo reactive properties cho các properties thuộc **1 level deep** của model

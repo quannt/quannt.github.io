@@ -51,5 +51,5 @@ export default {
 
 
 References:
-* https://github.com/vuejs/vue/issues/3732
-* https://github.com/vuejs/vue/issues/5932
+* [https://github.com/vuejs/vue/issues/3732](https://github.com/vuejs/vue/issues/3732)
+* [https://github.com/vuejs/vue/issues/5932](https://github.com/vuejs/vue/issues/5932)

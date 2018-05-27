@@ -5,9 +5,9 @@
 	<title>{{ page.title }}</title>
 	<meta property="og:title" content="{{ page.title }}" />
 	{% if page.excerpt %}
-	<meta name="description" content="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}">
-	<meta property="og:description" content="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}" />
-        <meta name="twitter:description" content="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}" />
+	<meta name="description" content="{{ post.excerpt }}">
+	<meta property="og:description" content="{{ post.excerpt }}" />
+        <meta name="twitter:description" content="{{ post.excerpt }}" />
 	{% endif %}
 	<meta property="og:image" content="https://www.gravatar.com/avatar/28410ec97da16f250a154d9b335c8a32?s=300" />
 	<meta name="author" content="@{{ site.author.name }}">
